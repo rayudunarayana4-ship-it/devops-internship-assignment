@@ -39,4 +39,5 @@ Git Pull:
 - Downloads and merges changes automatically
 - Updates your current branch immediately
 - Faster because everything happens in a single command
- feature A changes
+<<<<<<< HEAD
+ Feature A and Feature B changes resolved
