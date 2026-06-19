@@ -23,7 +23,7 @@ spec:
 
       - name: devops-app
 
-        image: your-dockerhub-username/devops-app:latest
+        image: rayudunarayana4-ship-it/devops-app:latest
 
         ports:
 
